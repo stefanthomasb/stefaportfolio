@@ -1,0 +1,12 @@
+.peter-CLASS{
+    color: blue;
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:upper-roman;
+} 
+.james-CLASS{
+    color: red;
+    text-align: left;
+    list-style-position: outside;
+    list-style-type: upper-alpha;
+}
